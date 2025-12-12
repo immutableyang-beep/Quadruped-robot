@@ -1,4 +1,4 @@
- #ifndef FINALPROJECT_HEADER_H
+#ifndef FINALPROJECT_HEADER_H
 #define	FINALPROJECT_HEADER_H
 
 #include <xc.h> // include processor files - each processor file is guarded.
@@ -37,4 +37,5 @@ extern "C" {
 #endif /* __cplusplus */
 
 #endif	/* XC_HEADER_TEMPLATE_H */
+
 
