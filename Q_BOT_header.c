@@ -1,8 +1,6 @@
 /*
- * File:   FinalProjec_header.c
+ * File:   Q_BOT_header.c
  * Author: Yang
- *
- * Created on November 13, 2025, 2:38 PM
  */
 
 
@@ -337,4 +335,5 @@ void speed(void) {
     else {
         PR1 = RUN_SPEED;
     }
+
 }
